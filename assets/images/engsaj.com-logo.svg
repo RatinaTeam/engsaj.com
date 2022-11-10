@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="3.72 6.696 458.933 489.039" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clippath2" transform="">
+      <path d="M 0 2233.507 L 1920 2233.507 L 1920 0 L 0 0 Z" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1, 0, 0, -1, -808.432166, 1532.79805)">
+    <g transform="">
+      <path d="M 829.247 417.043 L 826.398 417.043 L 826.398 413.586 L 829.247 413.586 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      <path d="M 825.042 417.043 L 822.193 417.043 L 822.193 413.586 L 825.042 413.586 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      <path d="M 0 2233.507 L 1920 2233.507 L 1920 0 L 0 0 Z" style="fill: none;"/>
+    </g>
+    <g style="clip-path: url(#clippath2);" transform="matrix(1.59475, 0, 0, 1.59475, -490.241669, 332.478088)">
+      <g transform="translate(1074.28 493.2866)">
+        <path d="M 0 0 L 6 8.02 L 6 113.7 L 27.87 101.9 L 27.87 0 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(970.93 665.9765)">
+        <path d="M 0 0 L 0 -85.21 L -27.86 -85.21 L -21.86 -79.04 L -21.86 11.79 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(1014.67 642.3765)">
+        <path d="M 0 0 L 0 -105.35 L -27.87 -105.35 L -21.87 -98.13 L -21.87 11.8 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(927.2 689.5666)">
+        <path d="M 0 0 L 0 -108.8 L -27.87 -108.8 L -21.87 -101.72 L -21.87 11.8 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(1058.4099 618.7866)">
+        <path d="M 0 0 L 0 -125.5 L -131.21 -125.5 L -131.21 -155.39 L -131.22 -155.39 L -131.22 -169.24 L -240.56 -169.24 L -240.56 -16.15 L -196.82 -16.15 L -196.82 106.17 L -174.95 94.38 L -174.95 -38.02 L -218.69 -38.02 L -218.69 -147.37 L -153.08 -147.37 L -153.08 -103.63 L -131.21 -103.63 L -131.21 -81.76 L -174.95 -81.76 L -174.95 -116.53 L -164.95 -125.5 L -196.82 -125.5 L -196.82 -59.89 L -87.48 -59.89 L -87.48 -81.76 L -109.34 -81.76 L -109.34 -103.63 L -21.87 -103.63 L -21.87 11.79 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(959.9999 445.0175)">
+        <path d="M 0 0 L 15.464 15.464 L 0 30.928 L -15.464 15.464 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="">
+        <path d="M 992.804 449.547 L 1102.15 449.547 L 1102.15 471.416 L 992.804 471.416 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(845.72 624.4965)">
+        <path d="M 0 0 L -27.87 0 L -27.87 124.06 L -6 112.26 L -6 6.88 Z" style="fill: rgb(35, 31, 32); fill-opacity: 1;"/>
+      </g>
+    </g>
+  </g>
+</svg>
